@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77892be9-89b8-4362-99e6-b8910884df85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/ProjectileFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/MoveCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/ActorManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/CommandInvoker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/FactoryManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Mono/MonoHeroCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/Command.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/CommandMoveRight.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/PlayerActor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/RangedAttackFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/ActorManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/FactoryManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/GenericFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/ProjectileFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/Actor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/CommandInvoker.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/MoveCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/RangedAttackCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/GameEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/TurnBasedRPG/Scripts/Command.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jPLkSURWr5RUoQxFhreAvSgr9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77892be9-89b8-4362-99e6-b8910884df85" name="Default Changelist" comment="" />
+      <created>1603700926850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603700926850</updated>
+      <workItem from="1603700948059" duration="1801000" />
+      <workItem from="1603787085460" duration="22742000" />
+      <workItem from="1603871636606" duration="5767000" />
+      <workItem from="1603960332366" duration="6567000" />
+      <workItem from="1603978826690" duration="1623000" />
+      <workItem from="1604047203842" duration="9107000" />
+      <workItem from="1604650157281" duration="535000" />
+      <workItem from="1604651826013" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.0.center" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.0.left" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.0.right" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.1.center" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.1.left" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.1.right" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.2.bottom" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.2.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+    <state width="1877" height="390" key="GridCell.Tab.2.center" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.2.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.2.left" timestamp="1603974149202">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.2.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149202" />
+    <state width="1877" height="390" key="GridCell.Tab.2.right" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.2.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+    <state width="1877" height="390" key="GridCell.Tab.3.bottom" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.3.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+    <state width="1877" height="390" key="GridCell.Tab.3.center" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.3.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+    <state width="1877" height="390" key="GridCell.Tab.3.left" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.3.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+    <state width="1877" height="390" key="GridCell.Tab.3.right" timestamp="1603974149203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="390" key="GridCell.Tab.3.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603974149203" />
+  </component>
+</project>
